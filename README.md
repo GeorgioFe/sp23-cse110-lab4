@@ -10,3 +10,6 @@
 [Part 2 Question 18 Code](expose/javascript/part2-question18.js)
 
 [devtools-pt1.md](expose/devtools/devtools-pt1.md)
+
+## 2. Expose
+[devtools-pt2.md](explore/devtools/devtools-pt2.md)
