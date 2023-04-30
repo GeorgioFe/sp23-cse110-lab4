@@ -8,4 +8,4 @@ Question 4: The code returns an error for line 13 becuase the variable "result" 
 
 Question 5: The code returns an error for line 7 because we declared the "result" variable using the "const" keyword, and we later tried to change its value. So nothing is produced by line 9.
 
-Question 6: The code returns an error for line 13 because the variable "result" which was declared using the "const" keyword has the same scope properties of the "let" keyword, and as we explained in question 4, the code in line 13 is outside the if/else block which "result" was declared in.
+Question 6: Similar to Question 5, the code returns an error for line 7 because we declared the "result" variable using the "const" keyword, and we later tried to change its value. So nothing is produced by line 13.
