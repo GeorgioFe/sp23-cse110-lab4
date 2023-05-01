@@ -13,3 +13,5 @@
 
 ## 2. Expose
 [devtools-pt2.md](explore/devtools/devtools-pt2.md)
+
+[Diagram](explore/diagramming/diagram.drawio.png)
